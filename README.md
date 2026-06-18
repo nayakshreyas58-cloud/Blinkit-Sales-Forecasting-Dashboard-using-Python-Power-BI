@@ -36,4 +36,18 @@ This project is **not just another Blinkit dashboard** — the main value comes 
 
 **Perfect for showcasing end-to-end skills** in Data Analysis, Time Series Forecasting, and Business Intelligence.
 
+
+## Demo
+
+<img width="1288" height="737" alt="Screenshot 2026-06-18 122102" src="https://github.com/user-attachments/assets/5f917fd5-9271-4fee-ac17-1c9fc7ef92b3" />
+
+<img width="1322" height="743" alt="Screenshot 2026-06-17 212920" src="https://github.com/user-attachments/assets/1c5ca505-d567-4383-8338-36473f89d0c3" />
+
+<img width="1327" height="743" alt="Screenshot 2026-06-16 225135" src="https://github.com/user-attachments/assets/6ecb6ebd-499c-4b02-9263-8838bf8366f8" />
+
+<img width="1843" height="960" alt="Screenshot 2026-06-17 213936" src="https://github.com/user-attachments/assets/d89a76f6-a228-4be9-a2cf-e4fcf4213c26" />
+
+
 ⭐ Star this repo if you're into retail analytics, Power BI, and Python forecasting projects!
+
+
