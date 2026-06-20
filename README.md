@@ -32,9 +32,6 @@ This project is **not just another Blinkit dashboard** — the main value comes 
 - Seamlessly integrating forecast results into Power BI
 - Creating a production-ready analytics solution
 
----
-
-**Perfect for showcasing end-to-end skills** in Data Analysis, Time Series Forecasting, and Business Intelligence.
 
 
 ## Demo
